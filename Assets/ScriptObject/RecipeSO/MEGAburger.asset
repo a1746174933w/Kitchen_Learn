@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 299c7825bef46984eaa945f6d8c9cabb, type: 3}
+  m_Name: MEGAburger
+  m_EditorClassIdentifier: 
+  kitchenObjectSOList:
+  - {fileID: 11400000, guid: 9776fa7ebb902494393891cfd2ca5ae0, type: 2}
+  - {fileID: 11400000, guid: bc6b55adac61d1f48bac98837fee3c53, type: 2}
+  - {fileID: 11400000, guid: 682bb006cb9a47244822cfcbf94a71c6, type: 2}
+  - {fileID: 11400000, guid: 4692436c7432284498f449f447d96ccb, type: 2}
+  - {fileID: 11400000, guid: 4183b1b1e917a544a9783e6240474b7b, type: 2}
+  recipeName: MEGAburger

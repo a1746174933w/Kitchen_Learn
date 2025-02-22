@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b410bb5d875a97c4bbecd107e91dcd1f, type: 3}
+  m_Name: _RecipeListSO
+  m_EditorClassIdentifier: 
+  recipeListSO:
+  - {fileID: 11400000, guid: dda8beea7d093944caece8f0ece5c84b, type: 2}
+  - {fileID: 11400000, guid: a580592c6cdbdf14b9142645123a4bc7, type: 2}
+  - {fileID: 11400000, guid: c65a8ea0895920b47bb8f965469acb65, type: 2}
+  - {fileID: 11400000, guid: 9eebfa66e0dc9794b9b6fb60a7189b8b, type: 2}
